@@ -1,0 +1,12 @@
+node_modules/
+.env
+*.log
+neo4j_data/
+/*-vault/
+# Local-only: the pinned Undertow corpus and everything derived from it (eval set, results) do not ship
+/fixtures/undertow-corpus/
+/eval/questions.json
+/eval/results-m2.md
+/eval/results-m4.md
+/eval/results-m5.md
+/eval/analysis-m2.md

@@ -1,0 +1,6 @@
+{
+  "workItems": {
+    "idFromPath": "^work/([^/]+)/",
+    "phases": { "spec": "spec", "design": "design", "build": "build", "test": "test", "retro": "retro", "decision": "decision" }
+  }
+}
